@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angularjs**
 
-- 👯 I’m looking to collaborate on **Python, AI, ML, IoT**
+- 👯 I’m looking to collaborate on **Python, AI, ML, IoT Projects**
 
 - 💬 Ask me about **Python, ML, AI, IoT**
 
