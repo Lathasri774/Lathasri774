@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LathaSri</h1>
-<h3 align="center">A passionate AI Engineer, ML Engineer, Frontend Developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lathasri774&label=Profile%20views&color=0e75b6&style=flat" alt="lathasri774" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python, AI, ML, IoT Projects**
 
-- 💬 Ask me about **Python, ML, AI, IoT**
+- 💬 Ask me about **Python, SQL, AI, IoT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/lathasrigaddapati/**
 
