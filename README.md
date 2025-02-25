@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lathasri774&label=Profile%20views&color=0e75b6&style=flat" alt="lathasri774" /> </p>
 
-- 🌱 I’m currently learning **Angularjs**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 👯 I’m looking to collaborate on **Python, Looker Studio, SQL, Power BI Projects**
 
