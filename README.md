@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, SQL, Power BI, Looker Studio**
 
-- 📫 How to reach me **https://www.linkedin.com/in/lathasrigaddapati/**
+- 📫 How to reach me **https://www.linkedin.com/in/lathasrig/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
